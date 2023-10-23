@@ -1,0 +1,120 @@
+@import "../../style-config/mixins.scss", "../../style-config/variable.scss";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+
+section {
+    padding: 100px 0;
+    background: black;
+}
+
+.max-width {
+    padding: 0 23px;
+    @include medium-screen {
+        max-width: 1300px;
+        padding: 0 80px;
+        margin: auto;
+    }
+    
+}
+
+.skills {
+    font-family: 'Poppins', sans-serif;
+
+    .skills-content {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .title {
+        position: relative;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 500;
+        margin-bottom: 60px;
+        padding-bottom: 20px;
+        font-family: 'Ubuntu', sans-serif;
+
+        &::before {
+            content: "";
+            position: absolute;
+            bottom: 0px;
+            left: 50%;
+            width: 180px;
+            height: 3px;
+            background: #111;
+            transform: translateX(-50%);
+        }
+
+        &::after {
+            position: absolute;
+            bottom: -8px;
+            left: 50%;
+            font-size: 20px;
+            color: #ffdb44;
+            padding: 0 5px;
+            background: #fff;
+            transform: translateX(-50%);
+            content: "what i learned";
+        }
+    }
+
+    color: #fff;
+    background: #000000;
+
+    .title::before {
+        background: #fff;
+    }
+    
+    .title::after {
+        background: #000000;
+        content: "what i learned";
+    }
+
+    .skills-content .card {
+        width: 100%;
+        background: #131313;
+        text-align: center;
+        margin-bottom: 18px;
+        border-radius: 6px;
+        padding: 50px 25px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        @include medium-screen {
+            width: calc(33% - 20px);
+            
+        }
+
+        .box {
+            transition: all 0.3s ease;
+
+            img {
+                transition: all 0.3s ease;
+                height: 90px;
+                width: 90px;
+                margin: 10px;
+
+                &:hover {
+                    transform: scale(1.05);
+                }
+            }
+        }
+
+        i {
+            font-size: 50px;
+            color: #ffdb44;
+            transition: color 0.3s ease;
+
+            &:hover {
+                color: #fff;
+            }
+        }
+
+        .text {
+            font-size: 25px;
+            font-weight: 500;
+            margin: 10px 0 7px 0;
+        }
+    }
+}

@@ -1,10 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.869961e4.css",
-    "main.js": "/React-Portfolio/static/js/main.8c78564a.js",
-    "static/media/boy.png": "/React-Portfolio/static/media/boy.3c25f700da76eaf85e34.png",
+    "main.js": "/React-Portfolio/static/js/main.f0ecb81e.js",
     "static/media/software-dev.png": "/React-Portfolio/static/media/software-dev.8d46dd6aabe610d825df.png",
-    "static/media/girl.png": "/React-Portfolio/static/media/girl.9b9fd9571cd1be2fe067.png",
     "static/media/blog-thumb-2.jpg": "/React-Portfolio/static/media/blog-thumb-2.6ea419b38772d0c6685f.jpg",
     "static/media/blog-thumb-1.jpg": "/React-Portfolio/static/media/blog-thumb-1.d299b4913f9d814f738d.jpg",
     "static/media/vector-background.png": "/React-Portfolio/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
@@ -16,7 +14,7 @@
     "static/media/thumb-1.jpg": "/React-Portfolio/static/media/thumb-1.c4cdcb71d78a31493dde.jpg",
     "static/media/thumb-4.jpg": "/React-Portfolio/static/media/thumb-4.ca0a5db1714d4ca43d24.jpg",
     "static/media/thumb-3.jpg": "/React-Portfolio/static/media/thumb-3.7e550fc264d45366b663.jpg",
-    "static/media/thumb-7.jpg": "/React-Portfolio/static/media/thumb-7.ce14c76ba50f932d14d4.jpg",
+    "static/media/thumb-9.jpg": "/React-Portfolio/static/media/thumb-9.75cf7bf096c0f06fc249.jpg",
     "static/media/css3.png": "/React-Portfolio/static/media/css3.2b3b51071301e8789e0f.png",
     "static/media/thumb-2.jpg": "/React-Portfolio/static/media/thumb-2.5a21a5409f6da3f2ef9e.jpg",
     "static/media/javascript.png": "/React-Portfolio/static/media/javascript.9dc90e380999a1c4ac9d.png",
@@ -30,10 +28,10 @@
     "static/media/cloud-soft.png": "/React-Portfolio/static/media/cloud-soft.4a7c46b961e63488802b.png",
     "index.html": "/React-Portfolio/index.html",
     "main.869961e4.css.map": "/React-Portfolio/static/css/main.869961e4.css.map",
-    "main.8c78564a.js.map": "/React-Portfolio/static/js/main.8c78564a.js.map"
+    "main.f0ecb81e.js.map": "/React-Portfolio/static/js/main.f0ecb81e.js.map"
   },
   "entrypoints": [
     "static/css/main.869961e4.css",
-    "static/js/main.8c78564a.js"
+    "static/js/main.f0ecb81e.js"
   ]
 }

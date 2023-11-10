@@ -9,27 +9,30 @@ import "./style.scss";
 const projectsData = [
     {
         id: 1,
-        name: "Healthy Food Restraunt",
+        name: "E-commerce Website",
         tags: ["web-app", "mobile-app"],
         media: {
-            thumbnail: require("../../images/portfolio/thumb-7.jpg"),
+            thumbnail: require("../../images/portfolio/thumb-9.jpg"),
         },
+        link: "https://imtiyaj25.github.io/React-Resume-Builder/",
     },
     {
         id: 2,
-        name: "Anna & Daniel",
+        name: "React Resume Builder",
         tags: ["web-page"],
         media: {
-            thumbnail: require("../../images/portfolio/thumb-2.jpg"),
+            thumbnail: require("../../images/portfolio/thumb-10.jpg"),
         },
+        link: "https://imtiyaj25.github.io/sona-watch/",
     },
     {
         id: 3,
-        name: "Web Design Landing Page",
+        name: "Portfolio Website",
         tags: ["web-page"],
         media: {
-            thumbnail: require("../../images/portfolio/thumb-8.jpg"),
+            thumbnail: require("../../images/portfolio/thumb-11.jpg"),
         },
+        link: "https://imtiyaj25.github.io/portfolio/",
     },
     {
         id: 4,

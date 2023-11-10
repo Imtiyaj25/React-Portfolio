@@ -1,12 +1,5 @@
 import React from "react";
-import { BsAwardFill } from "react-icons/bs";
-import { FaUser } from "react-icons/fa";
-
-import girl from "../../../images/girl.png";
-import boy from "../../../images/boy.png";
 import hand from "../../../images/hand.png";
-import CallToAction from "../../shared/CallToAction";
-import { scrollToSection } from "../../utils/helpers";
 
 import "./style.scss";
 import { Cursor, useTypewriter } from "react-simple-typewriter";

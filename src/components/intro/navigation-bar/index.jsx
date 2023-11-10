@@ -3,7 +3,6 @@ import React, { useState } from "react";
 import { CgMenuRight } from "react-icons/cg";
 import { IoMdClose } from "react-icons/io";
 
-import logo from "../../../images/logo.png";
 import CallToAction from "../../shared/CallToAction";
 import { scrollToSection } from "../../utils/helpers";
 

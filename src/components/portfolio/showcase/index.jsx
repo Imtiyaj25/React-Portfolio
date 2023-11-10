@@ -8,7 +8,7 @@ const Showcase = ({ data, transition }) => {
     return (
         <div className="projects-showcase">
             {data.map((project) => (
-                <div
+                <a
                     className={`showcase-item ${
                         transition === "zoomout"
                             ? "zoomOut"
@@ -17,6 +17,8 @@ const Showcase = ({ data, transition }) => {
                             : ""
                     }`}
                     key={project.id}
+                    href={project.link}
+                    target="_black"
                 >
                     <div className="meta-content">
                         <h3>{project.name}</h3>
@@ -26,7 +28,7 @@ const Showcase = ({ data, transition }) => {
                         </div>
                     </div>
                     <img src={project.media.thumbnail} />
-                </div>
+                </a>
             ))}
         </div>
     );

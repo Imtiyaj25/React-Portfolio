@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.869961e4.css",
-    "main.js": "/React-Portfolio/static/js/main.f0ecb81e.js",
+    "main.js": "/React-Portfolio/static/js/main.c1c145a9.js",
     "static/media/software-dev.png": "/React-Portfolio/static/media/software-dev.8d46dd6aabe610d825df.png",
     "static/media/blog-thumb-2.jpg": "/React-Portfolio/static/media/blog-thumb-2.6ea419b38772d0c6685f.jpg",
     "static/media/blog-thumb-1.jpg": "/React-Portfolio/static/media/blog-thumb-1.d299b4913f9d814f738d.jpg",
@@ -10,16 +10,16 @@
     "static/media/blog-thumb-3.jpg": "/React-Portfolio/static/media/blog-thumb-3.da7632eea65347470e13.jpg",
     "static/media/thumb-6.jpg": "/React-Portfolio/static/media/thumb-6.26e955c3cd18b48dc98b.jpg",
     "static/media/sass.png": "/React-Portfolio/static/media/sass.c556a176a8b7d49fb670.png",
-    "static/media/thumb-8.jpg": "/React-Portfolio/static/media/thumb-8.cdf9b9f4de1c899f5bcc.jpg",
     "static/media/thumb-1.jpg": "/React-Portfolio/static/media/thumb-1.c4cdcb71d78a31493dde.jpg",
     "static/media/thumb-4.jpg": "/React-Portfolio/static/media/thumb-4.ca0a5db1714d4ca43d24.jpg",
     "static/media/thumb-3.jpg": "/React-Portfolio/static/media/thumb-3.7e550fc264d45366b663.jpg",
-    "static/media/thumb-9.jpg": "/React-Portfolio/static/media/thumb-9.75cf7bf096c0f06fc249.jpg",
     "static/media/css3.png": "/React-Portfolio/static/media/css3.2b3b51071301e8789e0f.png",
-    "static/media/thumb-2.jpg": "/React-Portfolio/static/media/thumb-2.5a21a5409f6da3f2ef9e.jpg",
+    "static/media/thumb-10.jpg": "/React-Portfolio/static/media/thumb-10.80d3970cad6ccae165c9.jpg",
     "static/media/javascript.png": "/React-Portfolio/static/media/javascript.9dc90e380999a1c4ac9d.png",
+    "static/media/thumb-9.jpg": "/React-Portfolio/static/media/thumb-9.ea03fb4ff9a2b3fe3fc8.jpg",
     "static/media/react.png": "/React-Portfolio/static/media/react.475f5bd69b0d39479ae3.png",
     "static/media/Imtiyaj Sayyad Resume.pdf": "/React-Portfolio/static/media/Imtiyaj Sayyad Resume.da0180717c786d231072.pdf",
+    "static/media/thumb-11.jpg": "/React-Portfolio/static/media/thumb-11.355e6c0f780ce86b5f4a.jpg",
     "static/media/github.png": "/React-Portfolio/static/media/github.5b6303795440552c2ee0.png",
     "static/media/Netlify1.png": "/React-Portfolio/static/media/Netlify1.263d49cd9bf8acd0b381.png",
     "static/media/expressJS.png": "/React-Portfolio/static/media/expressJS.ac475f5c5c503b0805e5.png",
@@ -28,10 +28,10 @@
     "static/media/cloud-soft.png": "/React-Portfolio/static/media/cloud-soft.4a7c46b961e63488802b.png",
     "index.html": "/React-Portfolio/index.html",
     "main.869961e4.css.map": "/React-Portfolio/static/css/main.869961e4.css.map",
-    "main.f0ecb81e.js.map": "/React-Portfolio/static/js/main.f0ecb81e.js.map"
+    "main.c1c145a9.js.map": "/React-Portfolio/static/js/main.c1c145a9.js.map"
   },
   "entrypoints": [
     "static/css/main.869961e4.css",
-    "static/js/main.f0ecb81e.js"
+    "static/js/main.c1c145a9.js"
   ]
 }

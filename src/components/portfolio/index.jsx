@@ -14,7 +14,7 @@ const projectsData = [
         media: {
             thumbnail: require("../../images/portfolio/thumb-9.jpg"),
         },
-        link: "https://imtiyaj25.github.io/React-Resume-Builder/",
+        link: "https://imtiyaj25.github.io/sona-watch/",
     },
     {
         id: 2,
@@ -23,7 +23,7 @@ const projectsData = [
         media: {
             thumbnail: require("../../images/portfolio/thumb-10.jpg"),
         },
-        link: "https://imtiyaj25.github.io/sona-watch/",
+        link: "https://imtiyaj25.github.io/React-Resume-Builder/",
     },
     {
         id: 3,

@@ -4,12 +4,11 @@ import {
     FaGithub,
     FaLinkedinIn,
     FaHackerrank,
-    FaStackOverflow,
-    FaInstagram,
+    // FaStackOverflow,
+    // FaInstagram,
 } from "react-icons/fa";
 
 import Section from "../shared/section";
-import Logo from "../../images/logo.png";
 import SocialIcon from "./social-icon";
 import { scrollToSection } from "../utils/helpers";
 
@@ -57,7 +56,7 @@ const Footer = () => {
                     <SocialIcon
                         color="#FF0000"
                         icon={<FaYoutube />}
-                        link="https://www.youtube.com/"
+                        link="https://youtube.com/@imtiyajsayyad8576?si=4q5CHF2QPLG_fJMv"
                     />
                     <SocialIcon
                         color="#0D2636"

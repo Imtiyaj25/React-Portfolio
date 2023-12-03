@@ -1,37 +1,33 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.869961e4.css",
-    "main.js": "/React-Portfolio/static/js/main.6bb81d18.js",
+    "main.js": "/React-Portfolio/static/js/main.008e30a7.js",
     "static/media/software-dev.png": "/React-Portfolio/static/media/software-dev.8d46dd6aabe610d825df.png",
     "static/media/blog-thumb-2.jpg": "/React-Portfolio/static/media/blog-thumb-2.6ea419b38772d0c6685f.jpg",
     "static/media/blog-thumb-1.jpg": "/React-Portfolio/static/media/blog-thumb-1.d299b4913f9d814f738d.jpg",
     "static/media/vector-background.png": "/React-Portfolio/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
-    "static/media/thumb-5.jpg": "/React-Portfolio/static/media/thumb-5.27ea789b3b4ba71bd800.jpg",
     "static/media/blog-thumb-3.jpg": "/React-Portfolio/static/media/blog-thumb-3.da7632eea65347470e13.jpg",
-    "static/media/thumb-6.jpg": "/React-Portfolio/static/media/thumb-6.26e955c3cd18b48dc98b.jpg",
     "static/media/sass.png": "/React-Portfolio/static/media/sass.c556a176a8b7d49fb670.png",
-    "static/media/thumb-1.jpg": "/React-Portfolio/static/media/thumb-1.c4cdcb71d78a31493dde.jpg",
-    "static/media/thumb-4.jpg": "/React-Portfolio/static/media/thumb-4.ca0a5db1714d4ca43d24.jpg",
-    "static/media/thumb-3.jpg": "/React-Portfolio/static/media/thumb-3.7e550fc264d45366b663.jpg",
     "static/media/css3.png": "/React-Portfolio/static/media/css3.2b3b51071301e8789e0f.png",
     "static/media/thumb-10.jpg": "/React-Portfolio/static/media/thumb-10.80d3970cad6ccae165c9.jpg",
     "static/media/javascript.png": "/React-Portfolio/static/media/javascript.9dc90e380999a1c4ac9d.png",
+    "static/media/thumb-12.jpg": "/React-Portfolio/static/media/thumb-12.0b8f674e1e350037089d.jpg",
     "static/media/thumb-9.jpg": "/React-Portfolio/static/media/thumb-9.ea03fb4ff9a2b3fe3fc8.jpg",
     "static/media/react.png": "/React-Portfolio/static/media/react.475f5bd69b0d39479ae3.png",
     "static/media/Imtiyaj Sayyad Resume.pdf": "/React-Portfolio/static/media/Imtiyaj Sayyad Resume.da0180717c786d231072.pdf",
     "static/media/thumb-11.jpg": "/React-Portfolio/static/media/thumb-11.355e6c0f780ce86b5f4a.jpg",
     "static/media/github.png": "/React-Portfolio/static/media/github.5b6303795440552c2ee0.png",
-    "static/media/Netlify1.png": "/React-Portfolio/static/media/Netlify1.263d49cd9bf8acd0b381.png",
     "static/media/expressJS.png": "/React-Portfolio/static/media/expressJS.ac475f5c5c503b0805e5.png",
     "static/media/nodejs1.png": "/React-Portfolio/static/media/nodejs1.62f80282c9d26a029cd7.png",
     "static/media/nextjs.png": "/React-Portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/render.png": "/React-Portfolio/static/media/render.b215e72a252bcf1c5344.png",
     "static/media/cloud-soft.png": "/React-Portfolio/static/media/cloud-soft.4a7c46b961e63488802b.png",
     "index.html": "/React-Portfolio/index.html",
     "main.869961e4.css.map": "/React-Portfolio/static/css/main.869961e4.css.map",
-    "main.6bb81d18.js.map": "/React-Portfolio/static/js/main.6bb81d18.js.map"
+    "main.008e30a7.js.map": "/React-Portfolio/static/js/main.008e30a7.js.map"
   },
   "entrypoints": [
     "static/css/main.869961e4.css",
-    "static/js/main.6bb81d18.js"
+    "static/js/main.008e30a7.js"
   ]
 }
